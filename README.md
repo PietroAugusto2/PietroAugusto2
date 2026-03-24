@@ -1,5 +1,4 @@
-## Opa, tudo bom?
-Me chamo Pietro!
+## Opa, tudo bom? Me chamo Pietro!
 
 <!--
 **PietroAugusto2/PietroAugusto2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
