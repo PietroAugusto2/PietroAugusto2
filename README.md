@@ -1,6 +1,6 @@
 ## Opa, tudo bom? 
 
-Me chamo Pietro!
+Me chamo Pietro, tenho 19 anos. 
 
 <!--
 **PietroAugusto2/PietroAugusto2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
