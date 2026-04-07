@@ -7,13 +7,13 @@ Sou o Pietro, tenho 19 anos, atualmente estou cursando análise e desenvolviment
 * 🤳 Gestão de redes sociais  
 * 🛒 E-commerce  
 
-🎯 Minhas ferramentas:
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+[![PietroAugusto2 GitHub stats](https://github-readme-stats.vercel.app/api?username=PietroAugusto2)](https://github.com/PietroAugusto2/github-readme-stats)
 
 📫 Contato:
 
